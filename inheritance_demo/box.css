@@ -1,0 +1,31 @@
+h2 {
+  width: 300px;
+  background-color: orange;
+}
+div {
+  width: 300px;
+  box-sizing: border-box;
+}
+
+#one {
+  background-color: #8ecae6;
+  border-width: 5px;
+  border-style: solid;
+}
+#two {
+  background-color: #219ebc;
+  border-color: #fefae0;
+  border-style: inset;
+  border-width: 3px;
+  border-radius: 50% 20% / 10% 40%;
+}
+#three {
+  background-color: #023047;
+  border-width: 11px;
+  border-color: #f4a261;
+  border-style: groove;
+  border-radius: 10px 100px / 120px;
+}
+button {
+  padding: 10px 20px;
+}
