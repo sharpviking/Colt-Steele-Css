@@ -29,3 +29,7 @@ div {
 button {
   padding: 10px 20px;
 }
+span {
+  margin-left: 11px;
+  transform: rotate(90deg);
+}
