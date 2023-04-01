@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 section {
   background-color: #ade8f4;
   width: 700px;
@@ -9,3 +10,16 @@ div {
   width: 50%;
   height: 50%;
 }
+=======
+section {
+  background-color: #ade8f4;
+  width: 700px;
+  height: 700px;
+}
+
+div {
+  background-color: #0d3b66;
+  width: 50%;
+  height: 50%;
+}
+>>>>>>> 45e96d0a0f909e875db5377bc60cefa141e0e95e

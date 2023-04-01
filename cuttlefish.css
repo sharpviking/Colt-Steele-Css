@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
   text-align: center;
   font-weight: 400;
@@ -12,3 +13,19 @@ a {
 p {
   line-height: 2;
 }
+=======
+h1 {
+  text-align: center;
+  font-weight: 400;
+  text-decoration: orange underline wavy;
+  letter-spacing: 15px;
+  font-size: 80px;
+  font-family: arial;
+}
+a {
+  text-decoration: none;
+}
+p {
+  line-height: 2;
+}
+>>>>>>> 45e96d0a0f909e875db5377bc60cefa141e0e95e
