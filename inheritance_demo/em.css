@@ -1,0 +1,48 @@
+section {
+  background-color: #ade8f4;
+  width: 700px;
+  height: 700px;
+}
+
+div {
+  background-color: #0d3b66;
+  width: 50%;
+  height: 50%;
+}
+html {
+  font-size: 26px;
+}
+
+#ems h2 {
+  font-size: 2em;
+}
+#ems h3 {
+  font-size: 1.5em;
+}
+
+#ems p {
+  font-size: 1em;
+}
+#ems {
+  font-size: 20px;
+}
+button {
+  font-size: 1em;
+  padding: 0 1em;
+  border-radius: 0.5em;
+  background-color: #a8dadc;
+  color: white;
+}
+
+#rems h2 {
+  font-size: 3rem;
+}
+#rems h3 {
+  font-size: 2rem;
+}
+#rems ul {
+  font-size: 0.7rem;
+}
+#rems button {
+  font-size: 1.5rem;
+}
